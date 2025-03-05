@@ -1,1 +1,3 @@
 *.ipynb
+/virtual_envs/churnometer/
+ipykernel
